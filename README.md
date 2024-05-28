@@ -2,4 +2,4 @@
 - 🎮 Estou aprendendo a usar o GitHub
 - ✏️ Sei usar o Scratch
 - 🦋 Já usei o P5
-- <img scr= "https://static.wikia.nocookie.net/aobuta/images/d/d8/Mai_Sakurajima_Anime_-_Screenshot_1.png/revision/latest?cb=20181016030235">
+- <img scr= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuhKc3i2CObmyNCq99_NdOXMoATPDjPwHPYy9ZReOkxg&s">
